@@ -139,12 +139,12 @@ streamlit run app.py
 ### 🔹 Confusion Matrices
 <p align="center">
   <img src="Output/lda_confusion_matrix.png" width="350"/>
-  <img src="assets/images/lda_confusion_matrix.png" width="350"/>
+  <img src="Output/logistic_regression_confusion_matrix.png" width="350"/>
 </p>
 
 ### 🔹 ROC Curve Comparison
 <p align="center">
-  <img src="assets/images/roc_curve.png" width="500"/>
+  <img src="Output/roc_curves_comparison.png" width="500"/>
 </p>
 
 ---
