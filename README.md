@@ -138,7 +138,7 @@ streamlit run app.py
 
 ### 🔹 Confusion Matrices
 <p align="center">
-  <img src="assets/images/lr_confusion_matrix.png" width="350"/>
+  <img src="Output/lda_confusion_matrix.png" width="350"/>
   <img src="assets/images/lda_confusion_matrix.png" width="350"/>
 </p>
 
